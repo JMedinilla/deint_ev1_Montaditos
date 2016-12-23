@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MedinillaMontaditos</string>
+    <string name="order_by_name">Order by name</string>
+    <string name="order_by_type">Order by type</string>
+    <string name="order_by_name_desc">Order by name (DESC)</string>
+    <string name="order_by_type_desc">Order by type (DESC)</string>
+    <string name="pedir">Pedir</string>
+    <string name="contentdescription">contentDescription</string>
+    <string name="_00">00</string>
+    <string name="placeholder">[placeholder]</string>
+    <string name="order_reset">Reset order</string>
+    <string name="filter">Filtrar</string>
+    <string name="order_by_quant">Order by quantity</string>
+    <string name="order_by_quant_desc">Order by quantity (DESC)</string>
+    <string name="all">All</string>
+    <string name="food">Food</string>
+    <string name="drinks">Drinks</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_order_name"
+        android:title="@string/order_by_name" />
+    <item
+        android:id="@+id/menu_order_name_desc"
+        android:title="@string/order_by_name_desc" />
+    <item
+        android:id="@+id/menu_order_type"
+        android:title="@string/order_by_type" />
+    <item
+        android:id="@+id/menu_order_type_desc"
+        android:title="@string/order_by_type_desc" />
+    <item
+        android:id="@+id/menu_order_quant"
+        android:title="@string/order_by_quant" />
+    <item
+        android:id="@+id/menu_order_quant_desc"
+        android:title="@string/order_by_quant_desc" />
+    <item
+        android:id="@+id/menu_order_reset"
+        android:title="@string/order_reset" />
+</menu>
